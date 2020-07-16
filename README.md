@@ -19,7 +19,7 @@ To view the HTML document of the project, please make sure that US_SW_COVID-19_F
   - Used the lubridate package to transform the dates given in the .csv files into a variable "t" that counts the number of days since 22 January 2020.
 * Helped develop the code to create the model, creating a linear model from the exponential growth of cases by getting the natural logarithm of the recorded target values
 
-#### Details of project expereince <br />  
+#### Details of project expereince: <br />  
 Creating data vizualizations for the project was my primary task. Intuitively, the first graphs I wanted to make were of each individual state's confirmed cases and fatalities, and then a comparison graph for confirmed cases and for fatalities in order to comapre how COVID-19 was affecting these states. Knowing that the model was going to be a linear model, I also decided to make graphics showing the linearity by making plots for the natural log of confirmed cases and of fatalities. <br />  
 I was able to spend more time writing the code for the graphics earlier on, so not enough of the data preparation had been done yet to have data to use for the graphs, so I wrote my code thinking ahead so that I would have to change as little as possible once the data was ready. After that, I decided to help with the data preparation to have data to use to make sure that the visuals were appearing as they should. <br />  
 As these graphs show, the predictions from the model do not seem to be an accurate fit. To have a finished product by the due date, we stuck with this model; however, if given more time, the model definitely would have been modified as it is quite an overestimate. <br />  
