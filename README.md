@@ -6,6 +6,8 @@ This project was done as a part of Point Loma Nazarene University's Applied Proj
 
 For this project, we used the COVID-19 Global Forecasting (Week 4) data publically available [here on Kaggle](https://www.kaggle.com/c/covid19-global-forecasting-week-4) <br />
 
+To view the HTML document of the project, please make sure that US_SW_COVID-19_Forecast.html, ConfirmedCases.gif, and Fatalities.gif are all in the same directory when opening the HTML file. If not, then the animations will likely not be able to be displayed in the file. <br />
+
 #### Project Goals:
 * Create predictions for three weeks for the number of confirmed cases and fatalities for the southwestern United States, including Arizona, California, Colorado, Nevada, New Mexico, and Utah  
 * Add external data to add to model (collected NOAA weather data and population statistcs)
